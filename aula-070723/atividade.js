@@ -44,14 +44,36 @@ for (var i = 1; i <= 100; i++) {
     }
 }
 
-var numerotri = 13
+let numerotri = 50
 
-for (var i = 1; i <= numero; i++) {
-    var linha = '';
+for (let i = 1; i <= numerotri; i++) {
+    let linha = '';
 
-    for (var j = 1; j <= i; j++) {
+    for (let j = 1; j <= i; j++) {
     linha += '*';
 }
 
     console.log(linha);
+}
+
+let tamanho = 50;
+let linha = '';
+for (let i = 1; i <= tamanho; i++) {
+    linha += '@';
+}
+console.log(linha);
+for (let i = 2; i <= tamanho - 1; i++) {
+    linha = '@';
+    for (let j = 2; j <= tamanho - 1; j++) {
+    linha += ' ';
+}
+    linha += '@';
+    console.log(linha);
+}
+if (tamanho > 1) {
+    linha = '';
+    for (let i = 1; i <= tamanho; i++) {
+    linha += '@';
+}
+console.log(linha);
 }
