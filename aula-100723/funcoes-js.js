@@ -35,7 +35,7 @@ console.log(texto.charAt(9)); // imprime o caractere da posição 9
 
 console.log(texto.concat(" é muito bacana.")); // concatena JavaScript com texto
 
-console.log(texto.charAt(texto.length - 1)); // imprime o ultimo caractere
+console.log(texto.charAt(texto.length-1)); // imprime o ultimo caractere
 
 console.log(texto.trim()); // remove espaços do fim e do inicio do texto
 

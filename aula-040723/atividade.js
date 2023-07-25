@@ -1,42 +1,3 @@
-/*let numero 
-numero = 7;
-
-let resultado 
-resultado = numero % 2 === 0 ? "Par" : "Ímpar";
-console.log(resultado);
-
-let n1 = 19;
-let n2 = 8;
-let n3 = 20;
-let media = (n1 + n2 + n3) / 3;
-console.log(media);
-
-let numero = 15;
-let resultado = numero % 3 === 0 && numero % 5 === 0 ? "Divisível por 3 e por 5" : "Não é divisível por 3 e por 5";
-console.log(resultado);
-
-let base = 4;
-let altura = 5;
-let area = (base * altura) / 2;
-console.log(area);
-
-let celsius = 30;
-let fahrenheit = (celsius * 9/5) + 32;
-console.log(fahrenheit);
-
-let a = 1;
-let b = -3;
-let c = 2;
-let delta = b ** 2 - 4 * a * c;
-console.log(delta);
-
-
-let idade = 20;
-let podeDirigir = idade >= 18 ? "Pode dirigir" : "Não pode dirigir";
-console.log(podeDirigir);
-
-//Correçao
-
 // Escreva um programa que verifique se um número é par ou ímpar.
 let num = 98;
 let condicao = (num % 2) == 0; // é par
@@ -85,12 +46,3 @@ let delta = b**2 - 4 * a * c;
 let idade = 17;
 let mensagem3 = (idade >= 18) ? "Pode tirar carteira de motorista." : "Não pode tirar carteira de motorista.";
 console.log(mensagem3);
-*/
-
-
-
-
-
-
-
-

@@ -1,5 +1,3 @@
-// Correção
-
 // Escreva um programa que receba um texto e calcule a quantidade de letra de "a". O programa deve considerar maisculas e minusculas.
 let texto = "Hoje fui na casa de Ana e jogamos Valorant.";
 let numerosDeA = 0;
